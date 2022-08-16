@@ -5,10 +5,12 @@
 
 {% block content %}
     <h2>
-        All Cards
+        Todas las Tarjetas
     </h2>
+    <a href="{% url 'card-create' %}" role="button">
+        ✨  Crear Nueva
+    </a>
     {% for card in card_list %}
-
         {% ifchanged %}
             <h3>🗃 {{ card.box | ordinal }} Box</h3>
         {% endifchanged %}
