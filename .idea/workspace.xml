@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaf21538-5f76-483d-94d7-921789f58e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cards/templates/box_links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/templates/cards/box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/templatetags/cards_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/templates/cards/card_check_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cards/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cards/templates/cards/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/cards/templates/cards/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/templates/box_links.html" beforeDir="false" afterPath="$PROJECT_DIR$/cards/templates/cards/box_links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/templates/cards/box.html" beforeDir="false" afterPath="$PROJECT_DIR$/cards/templates/cards/box.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/templates/cards/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/cards/templates/cards/card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/templatetags/cards_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards/templatetags/cards_tags.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cards/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cards/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cards/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
@@ -39,7 +40,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cards/templates/cards" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scubi\PycharmProjects\flashcards_app\cards\templates\cards" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\scubi\PycharmProjects\flashcards_app\cards" />
+      <recent name="C:\Users\scubi\PycharmProjects\flashcards_app\cards\templates\cards" />
+      <recent name="C:\Users\scubi\PycharmProjects\flashcards_app\cards\templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -86,7 +98,8 @@
       <workItem from="1660065301080" duration="595000" />
       <workItem from="1660129636881" duration="708000" />
       <workItem from="1660651685017" duration="10762000" />
-      <workItem from="1660741241795" duration="5225000" />
+      <workItem from="1660741241795" duration="5485000" />
+      <workItem from="1660823417873" duration="16302000" />
     </task>
     <servers />
   </component>
